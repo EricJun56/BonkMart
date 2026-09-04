@@ -1,0 +1,14 @@
+{
+  "name": "Bonk Mart",
+  "short_name": "Bonk Mart",
+  "description": "Find the wailing toddlers by ear and calm them down.",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#ffe9b0",
+  "theme_color": "#ffe9b0",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
